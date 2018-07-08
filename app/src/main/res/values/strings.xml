@@ -1,0 +1,59 @@
+<resources>
+    <string-array name="country_array">
+        <item>All</item>
+        <item>India</item>
+        <item>United Arab Emirates</item>
+        <item>Australia</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>United Kingdom</item>
+        <item>Indonesia</item>
+        <item>Israel</item>
+        <item>Japan</item>
+        <item>South Korea</item>
+        <item>Mexico</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Russia</item>
+        <item>Saudi Arabia</item>
+        <item>Singapore</item>
+        <item>United States</item>
+        <item>South Africa</item>
+    </string-array>
+    <string-array name="source_array">
+        <item>null</item>
+        <item>bbc-news</item>
+        <item>cnbc</item>
+        <item>cnn</item>
+        <item>espn</item>
+        <item>espn-cric-info</item>
+        <item>google-news</item>
+        <item>google-news-in</item>
+        <item>national-geographic</item>
+        <item>the-hindu</item>
+        <item>the-new-york-times</item>
+        <item>the-times-of-india</item>
+    </string-array>
+    <string-array name="language_array">
+        <item>English</item>
+        <item>Arabic</item>
+        <item>German</item>
+        <item>Spanish</item>
+        <item>French</item>
+        <item>Italian</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Chinese</item>
+    </string-array>
+    <string-array name="sort_by_array">
+        <item>Popularity</item>
+        <item>PublishedAt</item>
+    </string-array>
+    <string name="app_name">News</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
